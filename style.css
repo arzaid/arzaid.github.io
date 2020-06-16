@@ -7,13 +7,13 @@ h1{
 border: 5px solid black; width: 50%; text-align: center; box-sizing: border-box; margin:5px 25% 5px 25%;
 }
 .border-1{
-	color:yellow; border:1px solid black; background:grey;  float:right;
+	color:yellow; border:1px solid black; background:grey;  float:right;font-style:bold;
 }
 .border-2{
-	color:yellow; border:1px solid black; background:green;  float:right;
+	color:yellow; border:1px solid black; background:maroon;  float:right;font-style:bold;
 }
 .border-3{
-	color:white; border:1px solid black; background:black;  float:right;
+	color:white; border:1px solid black; background:black;  float:right; font-style:bold;
 }
 p{ color:blue;
 	clear:right;
